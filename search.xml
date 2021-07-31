@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2021/07/30/test/"/>
-      <url>/2021/07/30/test/</url>
-      
-        <content type="html"><![CDATA[<pre class=" language-java"><code class="language-java">System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">print</span><span class="token punctuation">(</span><span class="token string">"hello word"</span><span class="token punctuation">)</span></code></pre>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2021/07/30/hello-world/"/>
       <url>/2021/07/30/hello-world/</url>
